@@ -1,24 +1,44 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "Cat Dancer Deluxe",
+      "shortDescription": "There’s two ways to play with the Cat Dancer Compleat Cat Toy. First, it works as a traditional cat wand, with spring steel wire and rolled cardboard that makes an irresistible lure for frisky kitties. Just a few flicks of the wrist, and your cat will start chasing, leaping and running in circles! Or, you can mount it to the wall with the included adhesive paw, which allows your cat to engage independently—meaning when you’re away, the cat can still play!",
+      "price": "$5.59",
+      "quantity": "500",
+      "imageURL": "https://img.chewy.com/is/image/catalog/122676_MAIN._AC_SS55_V1494019116_.jpg"
     },
     {
       "id": 2,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "Petstages Tower of Tracks",
+      "shortDescription": "Your kitty will never lose another ball under the couch with the Petstages Tower of Tracks Cat Toy. With three exciting levels, this interactive toy encourages extended playtime as the colorful balls spin and roll around and around. It’s great for multiple-cat households and independent play because it lets cats enjoy an action-packed afternoon even when you’re not at home. The stacked play station is built to last and features non-skid pads so it won’t move about as your kitty plays.",
+      "price": "$9.57",
+      "quantity": "340",
+      "imageURL": "https://img.chewy.com/is/image/catalog/98978_MAIN._AC_SL400_V1539609160_.jpg"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 3,
+      "title": "Yeowww! Catnip Yellow Banana",
+      "shortDescription": "Kitties go bananas for the Yeowww! Catnip Yellow Banana Cat Toy because it’s filled with the highest quality catnip. Every Yeowww! toy is sewn by hand and individually stuffed with 100% organically grown catnip that comes from trusted farmers. The outer fabric is a durable cotton twill that’s strong enough to hold up to all the biting and bunny kicking a cat can dish out. This handcrafted banana toy is bright and quirky and has no cotton fillers, dangerous plastic pieces or any of the cheaper “toy grade” materials.",
+      "price": "$5.99",
+      "quantity": "5000",
+      "imageURL": "https://img.chewy.com/is/image/catalog/102761_MAIN._AC_SL400_V1498858119_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Bergan Turbo Scratcher",
+      "shortDescription": "Just like its circular design, there will be no end to the fun your kitty will have with the Bergan Turbo Scratcher Cat Toy. It’s like two toys in one with a tough corrugated cardboard center to stretch and exercise his claws and a fun ball he can bat around the outer track that will offer hours of fun and entertainment to help reduce boredom, anxiety and destructive behavior. The included catnip helps entice your feline friend to play, while the non-skid feet on the bottom help keep the Turbo Scratcher still and stable on smooth, hard surfaces like wood or tile flooring.",
+      "price": "$9.99",
+      "quantity": "7034",
+      "imageURL": "https://img.chewy.com/is/image/catalog/64230_MAIN._AC_SL400_V1518819039_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cat Dancer Cat Charmer",
+      "shortDescription": "Cat Charmer is an interactive cat toy designed to charm and not harm. With an unbreakable, polycarbonate wand and four feet of very colorful fabric, Cat Charmer provides excellent aerobic exercise and is a safe interactive toy for all kittens, cats, and kids.",
+      "price": "$3.50",
+      "quantity": "989",
+      "imageURL": "https://img.chewy.com/is/image/catalog/64417_MAIN._AC_SL400_V1493753812_.jpg"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
